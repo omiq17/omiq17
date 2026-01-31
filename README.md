@@ -3,10 +3,11 @@
 ## 👋🏼 Hello World!&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 👨‍💻 I'm a full-stack SWE 
-- 💻 Working at PETRONAS Digital Sdn Bhd
-- 🌱 Learning TypeScript, Databases
+- 💻 Working remotely
+- ✍🏻 Pursuing Master of Data Science
+- 🌱 Learning data engineering
 - 👯 Looking to collaborate on stackoverflow and medium
-- 💡 Can help with programming, web developing tips
+- 💡 Can help with programming, web development, data insight tips
 - 🎯 Target: regularly wake up early in the morning 
 
 ### Things I deal with
