@@ -70,4 +70,4 @@
 
 ### My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=omiq17&theme=graywhite)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omiq17)](https://git.io/streak-stats)
