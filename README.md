@@ -70,4 +70,4 @@
 
 ### My Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=omiq17)
+![Fast Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=omiq17)
