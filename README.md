@@ -5,10 +5,10 @@
 - 👨‍💻 I'm a full-stack SWE 
 - 💻 Working remotely
 - ✍🏻 Pursuing Master of Data Science
-- 🌱 Learning Agentic AI, DE & DS
-- 👯 Looking to contribute on medium
-- 💡 Can help with programming, web development, agentic ai, cloud infra,  data insight tips
-- 🎯 Target: regularly wake up early in the morning 
+- 🌱 Learning Agentic AI, DE and DS
+- 👯 Looking to collaborate on and write articles for **Medium**.
+- 💡 Happy to help with: *Programming, Web Development, Agentic AI, Cloud Infra, and Data Insights.*
+- 🎯 Current Goal: Regularly waking up early in the morning!
 
 ### Things I deal with
 
@@ -71,3 +71,6 @@
 ### My Stats
 
 ![Fast Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=omiq17)
+
+
+
