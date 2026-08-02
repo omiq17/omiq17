@@ -2,10 +2,10 @@
 
 ## 👋🏼 Hello World!&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 👨‍💻 I'm a full-stack SWE 
-- 💻 Working remotely
-- ✍🏻 Pursuing Master of Data Science
-- 🌱 Learning Agentic AI, DE and DS
+- 👨‍💻 I'm a **Full-stack SWE** 
+- 💻 Working _remotely_
+- ✍🏻 Pursuing **Master of Data Science**
+- 🌱 Learning _Agentic AI, DE and DS_
 - 👯 Looking to collaborate on and write articles for **Medium**.
 - 💡 Happy to help with: *Programming, Web Development, Agentic AI, Cloud Infra, and Data Insights.*
 - 🎯 Current Goal: Regularly waking up early in the morning!
