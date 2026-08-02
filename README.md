@@ -5,9 +5,9 @@
 - 👨‍💻 I'm a full-stack SWE 
 - 💻 Working remotely
 - ✍🏻 Pursuing Master of Data Science
-- 🌱 Learning data engineering
-- 👯 Looking to collaborate on stackoverflow and medium
-- 💡 Can help with programming, web development, data insight tips
+- 🌱 Learning Agentic AI, DE & DS
+- 👯 Looking to contribute on medium
+- 💡 Can help with programming, web development, agentic ai, cloud infra,  data insight tips
 - 🎯 Target: regularly wake up early in the morning 
 
 ### Things I deal with
